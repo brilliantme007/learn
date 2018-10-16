@@ -1,4 +1,4 @@
-package com.whl.design_patterns.code;
+package com.learn.whl.design_patterns.code;
 
 /**
  * @Author: Wang HLiang
