@@ -1,6 +1,4 @@
-package com.learn.whl.design_patterns.Multi_threads.code;
-
-import sun.security.krb5.internal.Ticket;
+package com.learn.whl.Multi_threads.code;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CountDownLatch;
